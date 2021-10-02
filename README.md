@@ -1,7 +1,7 @@
 - 👋 Olá, sou @JulianaPalhotto
-- 👀 Estou interessada em aprender a programar
-- 🌱 Atualmente estou aprendendo Desenvolver Sistema
-- 📫 Você pode chegar até mim pelo meu Linkedin
+- 👀 Estou aprendendo a programar
+- 🌱 Atualmente estou estudando a Desenvolver Sistema
+
 
 <!---
 JulianaPalhotto/JulianaPalhotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
