@@ -1,6 +1,6 @@
 - 👋 Olá, sou @JulianaPalhotto
 - 👀 Estou aprendendo a programar
-- 🌱 Atualmente estou estudando a Desenvolver Sistema
+- 🌱 Atualmente estou aprendendo a Desenvolver Sistema
 
 
 
